@@ -1049,7 +1049,7 @@ footer_scoial i{
   .robbot-3d { display: none; }
   .speciality_cards { grid-template-columns: 1fr; gap: 15px; }
   .speciality .Headings, .collection .Headings, .road_map .Headings { width: 100%; text-align: center; }
-  .collection_box_info h2 { font-size: 2rem; }
+  .collection_box_info h2 { font-size: 4rem; }
 
   .footer_head {
     flex-direction: column;
