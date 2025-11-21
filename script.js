@@ -21,7 +21,7 @@ var swiper = new Swiper('.collectionSwiper',{
         900:{
             slidesPerView: 2,
         },
-        500:{
+        767:{
             slidesPerView: 1,
         },
     },
